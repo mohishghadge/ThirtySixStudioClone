@@ -1,6 +1,6 @@
 # ThirtySixStudio Clone App
 
-A responsive and interactive clone of the [ThirtySix Studio Clone](https://thirtysixstudio.com/) website, built using **React**, **GSAP**, and **Locomotive Scroll**. This project showcases smooth scrolling animations and 3D rendered images, providing an immersive experience.
+A responsive and interactive clone of the [ThirtySix Studio Clone]([https://thirtysixstudio.com/](https://thirtysix-studio-clone.netlify.app/)) website, built using **React**, **GSAP**, and **Locomotive Scroll**. This project showcases smooth scrolling animations and 3D rendered images, providing an immersive experience.
 
 ---
 
@@ -33,4 +33,4 @@ A responsive and interactive clone of the [ThirtySix Studio Clone](https://thirt
 
 ### 4. **Deployment**
    - The project is deployed on Netlify for seamless hosting and easy CI/CD integration.
-   - [Live Demo](https://thenikejustdoit.netlify.app/)
+   - [Live Demo]([https://thenikejustdoit.netlify.app/](https://thirtysix-studio-clone.netlify.app/)
