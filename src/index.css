@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    transition: all cubic-bezier(0.23,1,0.32,1) 1s;
+ background-color: black;
+ color:#fff
+}
+
+
+canvas{
+    pointer-events: none;
+}
+/* span.growing{
+    background-color: #FD2C2A;
+    
+} */
+
+.dash {
+    font-size: 7 rem; /* Adjust size as needed */
+    font-weight: normal; /* Optional for a thicker dash */
+    vertical-align: middle; /* Aligns the dash vertically with the text */
+  }
+
+  button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
