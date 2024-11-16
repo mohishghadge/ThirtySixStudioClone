@@ -2,6 +2,10 @@
 
 A responsive and interactive clone of the [ThirtySix Studio Clone](https://thirtysix-studio-clone.netlify.app/) website, built using **React**, **GSAP**, and **Locomotive Scroll**. This project showcases smooth scrolling animations and 3D rendered images, providing an immersive experience.
 
+--- 
+
+## NOTE : Click on the ThirtySixStudio too see the Animation
+
 ---
 
 ## 🔥 Features
