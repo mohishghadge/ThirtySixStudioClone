@@ -1,6 +1,6 @@
 # ThirtySixStudio Clone App
 
-A responsive and interactive clone of the [ThirtySix Studio Clone](https://thirtysix-studio-clone.netlify.app/) website, built using **React**, **GSAP**, and **Locomotive Scroll**. This project showcases smooth scrolling animations and 3D rendered images, providing an immersive experience.
+A responsive and interactive clone of the [ThirtySix Studio Clone](https://thirtysixstudioclone-gihhyufq9-mohishghadges-projects.vercel.app/) website, built using **React**, **GSAP**, and **Locomotive Scroll**. This project showcases smooth scrolling animations and 3D rendered images, providing an immersive experience.
 
 --- 
 
